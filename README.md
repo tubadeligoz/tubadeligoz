@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Tuba Deligoz</h1>
+<h1 align="center">This is Tuba Deligoz</h1>
 <h3 align="center">I am a dedicated developer who loves exploring the cutting edge of technology. While I continue to code, I am dedicating a significant part of my time to mastering Big Data technologies and understanding the moral implications of technology through AI Ethics. Furthermore, I am cultivating my Project Management skills to better organize, execute, and deliver scalable software products, ensuring that I grow into a well-rounded engineering professional.</h3>
 
 <h3 align="left">Connect with me:tubadeligozz@gmail.com</h3>
